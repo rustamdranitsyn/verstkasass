@@ -2,7 +2,9 @@
 @import "libs";
 @import "fonts";
 @import "global";
-
+body {
+    background: pink;
+}
 .header {
     position: relative;
     height: 100vh;
